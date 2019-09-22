@@ -1,2 +1,3 @@
-# shop-online-server
-A small project of shopping in the server mode connecting with the webApplication shop-online-client
+# ShopOnlineServer
+
+This project is just an example how to create a CRUD application using Spring boot. Connecting with Restful API to the client "ShopOnlineClient".
